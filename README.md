@@ -19,7 +19,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Business Health Monitor
 
-![Business Health Dashboard](./Dashboard_Images/ilovepdf_pages-to-jpg/QuickBite%20Express%20Dashboard_page-0001.jpg)
+![Business Health Dashboard](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0001.jpg)
 
 **What we observe:**
 - There was a sharp revenue drop in June 2025
@@ -30,7 +30,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Customer Intelligence
 
-![Customer Analytics](./Dashboard_Images/ilovepdf_pages-to-jpg/QuickBite%20Express%20Dashboard_page-0002.jpg)
+![Customer Analytics](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0002.jpg)
 
 **Critical insights:**
 - The company lost 2,847 loyal customers from Champions and Loyal segments
@@ -41,7 +41,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Operational Performance
 
-![Operations Dashboard](./Dashboard_Images/ilovepdf_pages-to-jpg/QuickBite%20Express%20Dashboard_page-0003.jpg)
+![Operations Dashboard](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0003.jpg)
 
 **The smoking gun:**
 - Average delivery delays increased by 40 minutes
@@ -52,7 +52,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Restaurant Partner Analysis
 
-![Restaurant Insights](./Dashboard_Images/ilovepdf_pages-to-jpg/QuickBite%20Express%20Dashboard_page-0004.jpg)
+![Restaurant Insights](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0004.jpg)
 
 **Partner ecosystem stress:**
 - Top performing restaurants are showing signs of instability
@@ -80,6 +80,53 @@ Customer Churn & Revenue Loss (-40%)
 1. **Logistics Collapse** - The system was unable to scale for summer demand
 2. **Quality Deterioration** - Average delays reached 40 minutes
 3. **Customer Trust Erosion** - Champions segment customers became At Risk
+
+---
+
+## Recovery Priorities
+
+![Recovery Priorities](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0005.jpg)
+
+### High Impact Actions
+
+**Fix delivery operations and SLA compliance**
+- Expected impact: 40% order recovery
+- Priority: High
+- Focus on fixing the delivery partner network to restore customer confidence
+
+**Targeted campaigns for High-Value Customers**
+- Expected impact: 25% revenue recovery
+- Priority: High
+- Launch HVC retention campaigns to prevent further churn of Champions segment
+
+**Reactivate churned loyal customers**
+- Expected impact: 15% trust rebuilding
+- Priority: Medium
+- Implement restaurant quality programs to rebuild brand trust
+
+### Medium Impact Actions
+
+**Restaurant partnership rebuilding**
+- Strengthen relationships with top-performing restaurant partners
+- Focus on cuisine categories most affected by the crisis
+
+**Referral program revitalization**
+- Leverage satisfied customers to acquire new users
+- Incentivize word-of-mouth marketing
+
+**Food safety transparency campaign**
+- Build trust through transparent communication about quality standards
+- Address customer concerns about food safety
+
+### Affected Restaurant and Cuisine Analysis
+
+The data reveals that specific restaurants and cuisine types were disproportionately affected:
+- Chinese cuisine experienced approximately 12.4% revenue decline
+- North Indian cuisine saw similar impacts around 12.5% decline
+- Biryani and South Indian categories were also significantly affected
+- Top affected restaurants include REST03388, REST12670, and REST19297
+
+This indicates that operational issues impacted the entire partner ecosystem, requiring a comprehensive recovery approach across all restaurant categories.
 
 ---
 
