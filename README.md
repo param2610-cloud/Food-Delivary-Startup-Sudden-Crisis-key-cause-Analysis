@@ -19,7 +19,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Business Health Monitor
 
-![Business Health Dashboard](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0001.jpg)
+![Business Health Dashboard](./Dashboard_Images/QuickBite_Recovery_Dashboard_page-0001.jpg)
 
 **What we observe:**
 - There was a sharp revenue drop in June 2025
@@ -30,7 +30,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Customer Intelligence
 
-![Customer Analytics](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0002.jpg)
+![Customer Analytics](./Dashboard_Images/QuickBite_Recovery_Dashboard_page-0002.jpg)
 
 **Critical insights:**
 - The company lost 2,847 loyal customers from Champions and Loyal segments
@@ -41,7 +41,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Operational Performance
 
-![Operations Dashboard](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0003.jpg)
+![Operations Dashboard](./Dashboard_Images/QuickBite_Recovery_Dashboard_page-0003.jpg)
 
 **The smoking gun:**
 - Average delivery delays increased by 40 minutes
@@ -52,7 +52,7 @@ QuickBite Express experienced a significant business decline starting in June 20
 
 ### Restaurant Partner Analysis
 
-![Restaurant Insights](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0004.jpg)
+![Restaurant Insights](./Dashboard_Images/QuickBite_Recovery_Dashboard_page-0004.jpg)
 
 **Partner ecosystem stress:**
 - Top performing restaurants are showing signs of instability
@@ -85,7 +85,7 @@ Customer Churn & Revenue Loss (-40%)
 
 ## Recovery Priorities
 
-![Recovery Priorities](./Dashboard_Images\QuickBite_Recovery_Dashboard_page-0005.jpg)
+![Recovery Priorities](./Dashboard_Images/QuickBite_Recovery_Dashboard_page-0005.jpg)
 
 ### High Impact Actions
 
@@ -132,17 +132,17 @@ This indicates that operational issues impacted the entire partner ecosystem, re
 
 ## Recovery Roadmap
 
-### Phase 1: Immediate Actions (Weeks 1-4)
+### Phase 1: Immediate Actions
 - Deploy an emergency delivery team of 100 riders
 - Implement real-time order throttling mechanisms
 - Launch a VIP customer retention program
 
-### Phase 2: Stabilization (Months 2-3)
+### Phase 2: Stabilization
 - Implement route optimization using AI technology
 - Develop comprehensive restaurant capacity planning
 - Execute win-back campaigns targeting churned Champions
 
-### Phase 3: Growth Recovery (Months 4-6)
+### Phase 3: Growth Recovery
 - Launch a structured loyalty rewards program
 - Expand geographically to more stable markets
 - Introduce partner performance bonus schemes
@@ -153,16 +153,7 @@ This indicates that operational issues impacted the entire partner ecosystem, re
 
 ---
 
-## Success Metrics to Track
 
-| KPI | Current | Target (6 months) |
-|-----|---------|------------------|
-| SLA Compliance | 52% | 90% |
-| Avg Rating | 3.1 | 4.5 |
-| Monthly Orders | 7,500 | 15,000 |
-| Customer Retention | 58% | 85% |
-
----
 
 ## Technical Stack
 
@@ -195,45 +186,11 @@ Food-Delivery-Startup-Crisis-Analysis/
 3. **Operational Resilience** - Proper capacity planning for peak seasons is essential
 4. **Data-Driven Decisions** - Monthly performance reviews are vital for business health
 
----
-
-## Stakeholder Actions
-
-### For CEO and Leadership
-- Review the Business Health Monitor dashboard
-- Approve the ₹15M recovery investment
-- Establish weekly KPI review meetings
-
-### For Operations Team
-- Focus on Operational Performance metrics
-- Implement route optimization immediately
-- Target 90% SLA compliance
-
-### For Marketing Team
-- Study Customer Intelligence insights carefully
-- Launch targeted win-back campaigns
-- Rebuild brand trust through transparency and communication
-
-### For Partner Success
-- Analyze Restaurant Insights thoroughly
-- Support high-impact cuisine categories
-- Implement partner performance incentive programs
-
----
-
-## Next Steps
-
-1. Review this analysis with all stakeholders
-2. Approve the recovery roadmap and budget allocation
-3. Launch Phase 1 actions immediately
-4. Set up weekly tracking of success metrics
-5. Plan quarterly reviews to assess progress
 
 ---
 
 ## Additional Resources
 
-- **Interactive Dashboard:** Run `streamlit run dashboard.py` (see DASHBOARD_README.md)
 - **Detailed Analysis Notebooks:** Available in the `notebooks/` folder
 - **Raw Data:** Located in `input/RPC_18_Datasets/`
 
